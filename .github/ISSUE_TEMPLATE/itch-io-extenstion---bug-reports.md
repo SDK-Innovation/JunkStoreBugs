@@ -2,7 +2,7 @@
 name: itch.io Extenstion - Bug Reports
 about: File a bug report for Junk Store 2.0 itch.io extension
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---

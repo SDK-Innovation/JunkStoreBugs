@@ -2,7 +2,7 @@
 name: itch.io Extension - Feature Request
 about: Request a missing feature for Junk Store 2.0 itch.io extension
 title: ''
-labels: ''
+labels: feature/enhancement
 assignees: ''
 
 ---
